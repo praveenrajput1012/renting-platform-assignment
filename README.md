@@ -1,28 +1,22 @@
-## Run Locally
+# E-commerce Blockchain Wallet Integration
 
-Clone the project
+This is a test implementation for blockchain wallet connection and UI state sync in an E-commerce React project.
 
-```bash
-  git clone https://github.com/Meta-Dex-Platform/E-commerce
-```
+---
 
-Go to the project directory
-```bash
-  cd React_E-Commerce
-```
+## 🔧 Features Implemented
 
-Install dependencies
- 
-npm install 
- OR 
-npm install --legacy-peer-deps
- OR
-npm install react-material-ui-carousel --save --legacy-peer-deps
+- ✅ Connect/Disconnect MetaMask wallet
+- ✅ Show user wallet address on connection
+- ✅ Detect network change (Ethereum, Polygon, etc.)
+- ✅ UI syncs during pending, confirmed, and completed transactions
 
-Start the development server
+---
 
-Run the project
+## 🚀 Run Locally
+
+### 1. Clone the Project
 
 ```bash
-  npm start
-```
+git clone https://github.com/praveenrajput1012/renting-platform-assignment.git
+cd renting-platform-assignment
