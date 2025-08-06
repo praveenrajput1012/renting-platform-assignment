@@ -7,24 +7,22 @@ Clone the project
 ```
 
 Go to the project directory
-
 ```bash
   cd React_E-Commerce
 ```
 
 Install dependencies
+ 
+npm install 
+ OR 
+npm install --legacy-peer-deps
+ OR
+npm install react-material-ui-carousel --save --legacy-peer-deps
 
-```bash
-  npm install
+Start the development server
 
-  OR 
-
-  npm install react-material-ui-carousel --save --legacy-peer-deps
-```
 Run the project
 
 ```bash
   npm start
 ```
-
-
